@@ -1,0 +1,2 @@
+https://pt.stackoverflow.com/questions/311433/o-que-%C3%A9-encapsulamento-em-java
+https://pt.stackoverflow.com/questions/311400/o-que-%C3%A9-sobrecarga-e-sobreposi%C3%A7%C3%A3o-de-m%C3%A9todos
